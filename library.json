@@ -1,6 +1,6 @@
 {
   "name": "byte_order",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "C++ constexpr header library to convert byte order of arbitrary types",
   "keywords": "library, c++, c++17, constexpr, header, byte, order, endian",
   "repository":
