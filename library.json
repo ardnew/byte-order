@@ -19,7 +19,16 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/ardnew/byte_order",
-  "dependencies": {},
   "frameworks": "*",
-  "platforms": "*"
+  "platforms": "*",
+  "dependencies": {},
+  "headers": [
+    "bits.hpp",
+    "bytes.hpp"
+  ],
+  "build": {
+    "flags": [
+      "-std=gnu++17"
+    ]
+  }
 }
