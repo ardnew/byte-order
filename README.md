@@ -1,4 +1,4 @@
-# `byte_order`
+# `byte-order`
 
 This library is implemented using only C++ header files containing fully `constexpr`-compatible methods.
 

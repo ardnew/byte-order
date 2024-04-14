@@ -1,13 +1,13 @@
 # platformio
 
-This is a minimal example of using [`byte_order`](https://github.com/ardnew/byte_order) with PlatformIO.
+This is a minimal example of using [`byte-order`](https://github.com/ardnew/byte-order) with PlatformIO.
 
 The [native](https://github.com/platformio/platform-native) platform is used by default and can be executed on your local host with the following commands:
 
 ```
 # Clone this repository
-git clone https://github.com/ardnew/byte_order.git
-cd byte_order/examples/platformio
+git clone https://github.com/ardnew/byte-order.git
+cd byte-order/examples/platformio
 
 # Use debug env to build against the locally-cloned repo
 pio run -e debug -t exec
@@ -25,7 +25,7 @@ LDF Modes: Finder ~ chain, Compatibility ~ soft
 Found 1 compatible libraries
 Scanning dependencies...
 Dependency Graph
-|-- byte_order @ 0.2.0
+|-- byte-order @ 0.3.0
 Building in debug mode
 Executing .pio/build/debug/program
 word = 3412

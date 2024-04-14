@@ -1,12 +1,12 @@
 {
-  "name": "byte_order",
-  "version": "0.2.1",
+  "name": "byte-order",
+  "version": "0.3.0",
   "description": "C++ constexpr header library to convert byte order of arbitrary types",
   "keywords": "library, c++, c++17, constexpr, header, byte, order, endian",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/ardnew/byte_order"
+    "url": "https://github.com/ardnew/byte-order"
   },
   "authors":
   [
@@ -18,7 +18,7 @@
     }
   ],
   "license": "MIT",
-  "homepage": "https://github.com/ardnew/byte_order",
+  "homepage": "https://github.com/ardnew/byte-order",
   "frameworks": "*",
   "platforms": "*",
   "dependencies": {},
